@@ -38,7 +38,7 @@ const lindoww = () => {
         Whatsapp : "https://api.whatsapp.com/send?phone=6289513946766&text=Halo+Lindow",
         Instagram : "https://www.instagram.com/lindoww.8",
         Rest API : "https://lindow-api.herokuapp.com"
-    },
+    }
   }
 }
 ```

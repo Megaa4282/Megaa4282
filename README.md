@@ -30,7 +30,7 @@ ___
 ```js
 const lindoww = () => {
   return {
-    pronouns: "He" | "Him",
+    pronouns: "She" | "Her",
     technologies:{
         backEnd: "ExpressJs"
     },

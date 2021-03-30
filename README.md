@@ -1,4 +1,4 @@
-![My Card](https://cardivo.vercel.app/api?name=Lindow%20Amamiya&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20and%20i%27m%2012%20y.o.%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/76984961?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=lindoww.8&github=lindow666&pattern=leaf&colorPattern=%23eaeaea)
+<img align="center" fit="fill" alt="GIF" src="https://cardivo.vercel.app/api?name=Lindow%20Amamiya&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20and%20i%27m%2012%20y.o.%20Nice%20to%20meet%20you%20👋&image=https://avatars.githubusercontent.com/u/76984961?s=400&u=acb8f5ca5c6f9a886400758a7e2eec42ca4fe91a&v=4&backgroundColor=%23ecf0f1&instagram=lindoww.8&github=lindow666&pattern=leaf&colorPattern=%23eaeaea"/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lindow666)
 ## Helloo Guys<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
